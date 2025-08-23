@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Passionate Software Developer | 🌍 From India</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=princekumarg&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />  
+  <img src="https://komarev.com/ghpvc/?username=shamavachar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />  
 </p>
 
 ---
