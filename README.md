@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Passionate Software Developer | 🌍 From India</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shamavachar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />  
+  <img src="https://komarev.com/ghpvc/?username=princekumarg&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />  
 </p>
 
 ---
@@ -10,8 +10,7 @@
 ## 👨‍💻 About Me  
 - 🔭 I’m currently working on **Full-Stack Development projects**  
 - 🌱 I’m currently learning **AI | ML**  
-<!-- - 👨‍💻 All of my projects are available at **[github]**  
-- 📝 I regularly write articles on **[Kaggle]**   -->
+- 👨‍💻 All of my projects are available at **[github]**
 - 💬 Ask me about **Problem Solving & Full-Stack Development**  
 - 📫 Reach me at **shamavachar20@gmail.com**  
 
