@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=280&section=header&text=Sham%20Avachar&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Junior%20Web%20%26%20App%20Developer&descAlignY=55&descAlign=60" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Sham%20Avachar&fontSize=80&fontAlignY=35&desc=Junior%20Web%20%26%20App%20Developer&descAlignY=55&descAlign=60" width="100%" alt="Header" />
 </div>
 
 <div align="center">
@@ -77,7 +77,7 @@
     </a>
   </div>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shamavachar&theme=tokyonight&hide_border=true&background=00000000" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=shamavachar&theme=tokyonight&hide_border=true&background=00000000" alt="Streak Stats" />
 </div>
 
 <br/>
@@ -91,21 +91,13 @@
 
 <div align="center">
   <h3>✨ Fun Extras</h3>
-  <br />
-  <table>
-    <tr>
-      <td align="center">
-        🎧 <strong>Playing on Spotify</strong><br/><br/>
-        <a href="https://open.spotify.com">
-          <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify" width="300" />
-        </a>
-      </td>
-      <td align="center">
-        💡 <strong>Dev Quote</strong><br/><br/>
-        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" width="300" />
-      </td>
-    </tr>
-  </table>
+  <br/>
+  <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+    <a href="https://open.spotify.com">
+      <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify" height="150" />
+    </a>
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" height="150" />
+  </div>
 </div>
 
 ---
