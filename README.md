@@ -49,7 +49,7 @@
   
   <p><strong>Frontend & Mobile</strong></p>
   <p>
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nextjs,bootstrap&theme=dark" alt="Frontend" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,angular,react,tailwind,nextjs,bootstrap&theme=dark" alt="Frontend" />
   </p>
   
   <p><strong>Backend & Database</strong></p>
@@ -59,7 +59,7 @@
   
   <p><strong>Tools & Platforms</strong></p>
   <p>
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,androidstudio,visualstudio&theme=dark" alt="Tools" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,androidstudio,visualstudio,vercel&theme=dark" alt="Tools" />
   </p>
 </div>
 
