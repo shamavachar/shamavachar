@@ -1,94 +1,134 @@
-<h1 align="center">Hi 👋, I'm Sham Avachar</h1>
-<h3 align="center">Junior Web & App Developer | BCA Student | India 🇮🇳</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=280&section=header&text=Sham%20Avachar&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Junior%20Web%20%26%20App%20Developer&descAlignY=55&descAlign=60" width="100%" alt="Header" />
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shamavachar&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
----
-
-## 👨‍💻 About Me  
-
-- 🎓 BCA student passionate about **Web & App Development**
-- 💻 Interested in **Frontend & Full-Stack Development**
-- 🌱 Currently learning **React Native** & **.NET**
-- 🧠 Strong foundation in **Java**
-- 📫 Reach me at **shamavachar20@gmail.com**
-
----
-
-## 🛠️ Skills & Tools  
-
-### 🌐 Frontend  
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" />
-</p>
-
-### 📱 Mobile (Learning)  
-<p>
-  <img src="https://skillicons.dev/icons?i=react&theme=dark" />
-</p>
-
-### 🗄 Backend & Databases  
-<p>
-  <img src="https://skillicons.dev/icons?i=php,mysql,mongodb&theme=dark" />
-</p>
-
-### 💻 Programming Languages  
-<p>
-  <img src="https://skillicons.dev/icons?i=java,c,cpp,python&theme=dark" />
-</p>
-
-### ⚙️ Tools & Platforms  
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,firebase&theme=dark" />
-</p>
-
----
-
-## 🌐 Connect With Me  
-
-<p align="center">
-  <a href="https://linkedin.com/in/sham-avachar" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3399FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Apps;Crafting+Smooth+Mobile+Experiences;Exploring+New+Technologies...;Java+%7C+React+Native+%7C+.NET" alt="Typing SVG" />
   </a>
-  <a href="https://github.com/shamavachar" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+</div>
+
+<div align="center">
+  <a href="https://github.com/shamavachar">
+    <img src="https://komarev.com/ghpvc/?username=shamavachar&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
   </a>
-</p>
+</div>
+
+<br/>
+
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top" width="55%">
+        <h2>👨‍💻 About Me</h2>
+        <ul>
+          <li>🇮🇳 I'm a <strong>BCA Student</strong> from <strong>India</strong>.</li>
+          <li>💻 Passionate about <strong>Full-Stack Development</strong>.</li>
+          <li>🌱 Currently exploring <strong>React Native</strong> & <strong>.NET Ecosystem</strong>.</li>
+          <li>🧠 Strong foundation in <strong>Java</strong> & <strong>Web Technologies</strong>.</li>
+          <li>🎯 Goals: Contributing to Open Source & Building useful apps.</li>
+          <li>📫 Reach me at: <a href="mailto:shamavachar20@gmail.com">shamavachar20@gmail.com</a></li>
+        </ul>
+      </td>
+      <td valign="center" width="45%">
+         <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius: 10px;" alt="Coding Gif"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shamavachar&show_icons=true&theme=tokyonight&hide_border=true" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamavachar&layout=compact&theme=tokyonight&hide_border=true" height="160px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shamavachar&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏅 GitHub Trophies  
-
-<p align="center">
-  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=shamavachar&theme=tokyonight&no-frame=true&column=6" />
-</p>
-
----
-
-## ✨ Fun Extras  
-
-- 🎧 **Spotify Now Playing**  
-  [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com)
-
-- 💡 **Random Dev Quote**  
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+  <h3>🛠️ Tech Stack</h3>
+  
+  <p><strong>Languages</strong></p>
+  <p>
+    <img src="https://skillicons.dev/icons?i=java,c,cpp,python,cs&theme=dark" alt="Languages" />
+  </p>
+  
+  <p><strong>Frontend & Mobile</strong></p>
+  <p>
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nextjs,bootstrap&theme=dark" alt="Frontend" />
+  </p>
+  
+  <p><strong>Backend & Database</strong></p>
+  <p>
+    <img src="https://skillicons.dev/icons?i=php,mysql,mongodb,firebase,nodejs,dotnet&theme=dark" alt="Backend" />
+  </p>
+  
+  <p><strong>Tools & Platforms</strong></p>
+  <p>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,androidstudio,visualstudio&theme=dark" alt="Tools" />
+  </p>
+</div>
 
 ---
 
-<h3 align="center">🔥 Clean • Modern • Developer-Focused 🔥</h3>
-<h4 align="center">Thanks for visiting! Let’s build something amazing 🚀</h4>
+<div align="center">
+  <h3>📊 GitHub Stats</h3>
+  <br/>
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <a href="https://github.com/shamavachar">
+      <img src="https://github-readme-stats.vercel.app/api?username=shamavachar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="170" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/shamavachar">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamavachar&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="170" alt="Top Languages" />
+    </a>
+  </div>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shamavachar&theme=tokyonight&hide_border=true&background=00000000" alt="Streak Stats" />
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>🏆 Trophies</h3>
+  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=shamavachar&theme=tokyonight&no-frame=true&column=7" />
+</div>
+
+---
+
+<div align="center">
+  <h3>✨ Fun Extras</h3>
+  <br />
+  <table>
+    <tr>
+      <td align="center">
+        🎧 <strong>Playing on Spotify</strong><br/><br/>
+        <a href="https://open.spotify.com">
+          <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify" width="300" />
+        </a>
+      </td>
+      <td align="center">
+        💡 <strong>Dev Quote</strong><br/><br/>
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" width="300" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<div align="center">
+  <h3>🌐 Connect With Me</h3>
+  <p>
+    <a href="https://linkedin.com/in/sham-avachar" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://github.com/shamavachar" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <a href="mailto:shamavachar20@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://instagram.com/" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    </a>
+  </p>
+</div>
+
+<br/>
+<div align="center">
+   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" />
+</div>
