@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sham%20Avachar&fontSize=90&animation=fadeIn&fontAlignY=35&fontColor=ffffff" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Sham%20Avachar&fontSize=90&animation=fadeIn&fontAlignY=35&fontColor=ffffff" width="100%" alt="Header" />
 </div>
 
 <div align="center">
@@ -22,7 +22,7 @@
       <td valign="top" width="55%">
         <h2>👨‍💻 About Me</h2>
         <ul>
-          <li> I'm a <strong>BCA Student</strong> from <strong>India</strong>.</li>
+          <li>🇮🇳 I'm a <strong>BCA Student</strong> from <strong>India</strong>.</li>
           <li>💻 Passionate about <strong>Full-Stack Development</strong>.</li>
           <li>🌱 Currently exploring <strong>React Native</strong> & <strong>.NET Ecosystem</strong>.</li>
           <li>🧠 Strong foundation in <strong>Java</strong> & <strong>Web Technologies</strong>.</li>
@@ -70,10 +70,10 @@
   <br/>
   <div style="display: flex; justify-content: center; gap: 10px;">
     <a href="https://github.com/shamavachar">
-      <img src="https://github-readme-stats.vercel.app/api?username=shamavachar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="170" alt="GitHub Stats" />
+      <img src="https://streak-stats.demolab.com/?user=shamavachar&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/shamavachar">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamavachar&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="170" alt="Top Languages" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shamavachar&theme=tokyonight&utcOffset=8" height="170" alt="Productive Time" />
     </a>
   </div>
   <br/>
