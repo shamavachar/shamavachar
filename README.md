@@ -91,7 +91,7 @@
 
   <!-- GitHub Streak -->
   <img 
-    src="[https://streak-stats.demolab.com/?user=shamavachar&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com/?user=shamavachar&theme=tokyonight&hide_border=true&background=00000000)" 
+    src="https://streak-stats.demolab.com/?user=shamavachar&theme=tokyonight&hide_border=true&background=00000000" 
     alt="Streak Stats" 
   />
 </div>
