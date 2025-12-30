@@ -69,24 +69,35 @@
   <h3>📊 GitHub Stats</h3>
   <br/>
 
-  <!-- Profile Details + Productive Time -->
-  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <!-- Profile Details + Productive Time (same size, one row) -->
+  <div style="display: flex; justify-content: center; gap: 12px; flex-wrap: nowrap;">
     <a href="https://github.com/shamavachar">
       <img 
         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shamavachar&theme=tokyonight" 
-        height="270"
-        width="400"
+        width="460"
+        height="170"
         alt="Profile Details" 
       />
     </a>
     <a href="https://github.com/shamavachar">
       <img 
         src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shamavachar&theme=tokyonight" 
-        height="170" 
+        width="460"
+        height="170"
         alt="Productive Time" 
       />
     </a>
   </div>
+
+  <br/>
+
+  <!-- GitHub Streak -->
+  <img 
+    src="https://streak-stats.demolab.com/?user=shamavachar&theme=tokyonight&hide_border=true" 
+    alt="Streak Stats" 
+  />
+</div>
+
 
   <br/>
 
