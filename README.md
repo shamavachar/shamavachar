@@ -69,44 +69,41 @@
   <h3>📊 GitHub Stats</h3>
   <br/>
 
-  <!-- Profile Details + Productive Time (same size, one row) -->
-  <div style="display: flex; justify-content: center; gap: 12px; flex-wrap: nowrap;">
-    <a href="https://github.com/shamavachar">
-      <img 
-        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shamavachar&theme=tokyonight" 
-        width="460"
-        height="170"
-        alt="Profile Details" 
-      />
-    </a>
-    <a href="https://github.com/shamavachar">
-      <img 
-        src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shamavachar&theme=tokyonight" 
-        width="460"
-        height="170"
-        alt="Productive Time" 
-      />
-    </a>
-  </div>
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/shamavachar">
+          <img 
+            src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shamavachar&theme=tokyonight"
+            width="450"
+            height="170"
+            alt="Profile Details"
+          />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/shamavachar">
+          <img 
+            src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shamavachar&theme=tokyonight"
+            width="450"
+            height="170"
+            alt="Productive Time"
+          />
+        </a>
+      </td>
+    </tr>
+  </table>
 
   <br/>
 
-  <!-- GitHub Streak -->
   <img 
-    src="https://streak-stats.demolab.com/?user=shamavachar&theme=tokyonight&hide_border=true" 
-    alt="Streak Stats" 
+    src="https://streak-stats.demolab.com/?user=shamavachar&theme=tokyonight&hide_border=true"
+    width="920"
+    height="170"
+    alt="GitHub Streak"
   />
 </div>
 
-
-  <br/>
-
-  <!-- GitHub Streak -->
-  <img 
-    src="https://streak-stats.demolab.com/?user=shamavachar&theme=tokyonight&hide_border=true&background=00000000" 
-    alt="Streak Stats" 
-  />
-</div>
 
 
 ---
