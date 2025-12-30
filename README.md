@@ -72,37 +72,35 @@
   <table>
     <tr>
       <td>
-        <a href="https://github.com/shamavachar">
-          <img 
-            src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shamavachar&theme=tokyonight"
-            width="450"
-            height="170"
-            alt="Profile Details"
-          />
-        </a>
+        <img
+          src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shamavachar&theme=tokyonight"
+          width="450"
+          height="170"
+          alt="Profile Details"
+        />
       </td>
       <td>
-        <a href="https://github.com/shamavachar">
-          <img 
-            src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shamavachar&theme=tokyonight"
-            width="450"
-            height="170"
-            alt="Productive Time"
-          />
-        </a>
+        <img
+          src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shamavachar&theme=tokyonight"
+          width="450"
+          height="170"
+          alt="Productive Time"
+        />
       </td>
     </tr>
   </table>
 
   <br/>
 
-  <img 
-    src="https://streak-stats.demolab.com/?user=shamavachar&theme=tokyonight&hide_border=true"
+  <!-- Perfect third card (same style, same vibe) -->
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shamavachar&theme=tokyonight"
     width="920"
     height="170"
-    alt="GitHub Streak"
+    alt="GitHub Stats Summary"
   />
 </div>
+
 
 
 
