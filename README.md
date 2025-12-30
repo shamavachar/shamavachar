@@ -68,19 +68,36 @@
 <div align="center">
   <h3>📊 GitHub Stats</h3>
   <br/>
-  <div style="display: flex; justify-content: center; gap: 10px;">
+
+  <!-- Profile Details + Productive Time -->
+  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
     <a href="https://github.com/shamavachar">
-      <img src="https://github-readme-stats.vercel.app/api?username=shamavachar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="170" alt="GitHub Stats" />
+      <img 
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shamavachar&theme=tokyonight" 
+        height="170" 
+        alt="Profile Details" 
+      />
     </a>
     <a href="https://github.com/shamavachar">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamavachar&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="170" alt="Top Languages" />
+      <img 
+        src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shamavachar&theme=tokyonight" 
+        height="170" 
+        alt="Productive Time" 
+      />
     </a>
   </div>
+
   <br/>
-  <img src="https://streak-stats.demolab.com/?user=shamavachar&theme=tokyonight&hide_border=true&background=00000000" alt="Streak Stats" />
+
+  <!-- GitHub Streak -->
+  <img 
+    src="https://streak-stats.demolab.com/?user=shamavachar&theme=tokyonight&hide_border=true" 
+    alt="Streak Stats" 
+  />
 </div>
 
-<br/>
+
+---
 
 <div align="center">
   <h3>🏆 Trophies</h3>
