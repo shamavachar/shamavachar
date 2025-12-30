@@ -74,8 +74,7 @@
     <a href="https://github.com/shamavachar">
       <img 
         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shamavachar&theme=tokyonight" 
-        height="170"
-        width="150"
+        height="150"
         alt="Profile Details" 
       />
     </a>
