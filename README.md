@@ -22,7 +22,7 @@
       <td valign="top" width="55%">
         <h2>👨‍💻 About Me</h2>
         <ul>
-          <li> I'm a <strong>BCA Student</strong> from <strong>India</strong>.</li>
+          <li> I'm a <strong>MCA Student</strong> from <strong>India</strong>.</li>
           <li>💻 Passionate about <strong>Full-Stack Development</strong>.</li>
           <li>🌱 Currently exploring <strong>React Native</strong> & <strong>.NET Ecosystem</strong>.</li>
           <li>🧠 Strong foundation in <strong>Java</strong> & <strong>Web Technologies</strong>.</li>
